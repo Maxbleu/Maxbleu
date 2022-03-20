@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Maxbleu
 - 👀 I’m interested in improve my code and be better each day 
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on nice I am becoming to programming
 
 <!---
 Maxbleu/Maxbleu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
