@@ -10,5 +10,5 @@ Today, I'm currently doing a specialization in artificial intelligence and big d
 
 ## Proyects in progress:
 
-- [Api Assetto Corsa](https://github.com/Maxbleu/FrontedApiAssetoCorsa)
-- [F1 Analisys](https://github.com/Maxbleu/F1Analisys)
+- [Api Assetto Corsa](https://github.com/Maxbleu/FrontedApiAssetoCorsa)🚗
+- [F1 Analisys](https://github.com/Maxbleu/F1Analisys)🏎️
